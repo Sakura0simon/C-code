@@ -1,0 +1,4 @@
+﻿  测试.cpp
+c:\users\simon\source\repos\测试\测试\测试.cpp(10): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\simon\source\repos\测试\测试\测试.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
+  测试.vcxproj -> C:\Users\simon\source\repos\测试\Debug\测试.exe

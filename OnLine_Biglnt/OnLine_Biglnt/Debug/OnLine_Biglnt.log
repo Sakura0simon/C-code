@@ -1,0 +1,8 @@
+﻿  bigint.cpp
+c:\users\simon\source\repos\online_biglnt\online_biglnt\seqlist.h(71): warning C4101: “e”: 未引用的局部变量
+  c:\users\simon\source\repos\online_biglnt\online_biglnt\seqlist.h(65): note: 编译 类 模板 成员函数 "bool SeqList<u_char>::_Inc(void)" 时
+  c:\users\simon\source\repos\online_biglnt\online_biglnt\seqlist.h(144): note: 参见对正在编译的函数 模板 实例化“bool SeqList<u_char>::_Inc(void)”的引用
+  c:\users\simon\source\repos\online_biglnt\online_biglnt\seqlist.h(114): note: 编译 类 模板 成员函数 "SeqList<u_char>::SeqList(const SeqList<u_char> &)" 时
+  c:\users\simon\source\repos\online_biglnt\online_biglnt\bigint.cpp(367): note: 参见对正在编译的函数 模板 实例化“SeqList<u_char>::SeqList(const SeqList<u_char> &)”的引用
+  c:\users\simon\source\repos\online_biglnt\online_biglnt\bigint.h(72): note: 参见对正在编译的 类 模板 实例化 "SeqList<u_char>" 的引用
+  OnLine_Biglnt.vcxproj -> C:\Users\simon\source\repos\OnLine_Biglnt\Debug\OnLine_Biglnt.exe
